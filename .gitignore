@@ -7,3 +7,4 @@ dist/
 *.log
 .venv/
 .cache/
+.pytest_cache/
